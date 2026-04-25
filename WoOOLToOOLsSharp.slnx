@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WoOOLToOOLsSharp.ContentEditor/WoOOLToOOLsSharp.ContentEditor.csproj" />
+    <Project Path="src/WoOOLToOOLsSharp.Downloader/WoOOLToOOLsSharp.Downloader.csproj" />
+    <Project Path="src/WoOOLToOOLsSharp.MapEditor/WoOOLToOOLsSharp.MapEditor.csproj" />
+    <Project Path="src/WoOOLToOOLsSharp.LegacyCli.WooolMinimapExport/WoOOLToOOLsSharp.LegacyCli.WooolMinimapExport.csproj" />
+    <Project Path="src/WoOOLToOOLsSharp.LegacyCli.WooolNmpDump/WoOOLToOOLsSharp.LegacyCli.WooolNmpDump.csproj" />
+    <Project Path="src/WoOOLToOOLsSharp.Rendering.Vulkan/WoOOLToOOLsSharp.Rendering.Vulkan.csproj" />
+    <Project Path="src/WoOOLToOOLsSharp.Shared/WoOOLToOOLsSharp.Shared.csproj" />
+    <Project Path="src/WoOOLToOOLsSharp.Tools/WoOOLToOOLsSharp.Tools.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WoOOLToOOLsSharp.Shared.Tests/WoOOLToOOLsSharp.Shared.Tests.csproj" />
+  </Folder>
+</Solution>

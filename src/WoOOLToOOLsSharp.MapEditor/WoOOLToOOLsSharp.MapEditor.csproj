@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\WoOOLToOOLsSharp.Shared\WoOOLToOOLsSharp.Shared.csproj" />
+    <ProjectReference Include="..\WoOOLToOOLsSharp.Rendering.Vulkan\WoOOLToOOLsSharp.Rendering.Vulkan.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

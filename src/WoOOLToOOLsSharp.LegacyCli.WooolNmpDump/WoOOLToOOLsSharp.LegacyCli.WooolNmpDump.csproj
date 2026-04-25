@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\WoOOLToOOLsSharp.Tools\WoOOLToOOLsSharp.Tools.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <!-- Keep the legacy binary name for parity with OldProj scripts. -->
+    <AssemblyName>woool_nmp_dump</AssemblyName>
+    <RootNamespace>WoOOLToOOLsSharp.LegacyCli.WooolNmpDump</RootNamespace>
+  </PropertyGroup>
+
+</Project>
+
