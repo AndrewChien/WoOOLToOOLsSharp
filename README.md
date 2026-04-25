@@ -1,5 +1,5 @@
 # WoOOLToOOLsSharp
-WoOOLToOOLs项目的C#版
+WoOOLToOOLs项目的C#版，传奇世界地图编辑器 + 资源编辑器。
 </br>
 </br>
 </br>
